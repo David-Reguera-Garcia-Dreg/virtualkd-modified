@@ -1,0 +1,3 @@
+[submodule "VirtualKD"]
+	path = VirtualKD
+	url = https://github.com/sysprogs/VirtualKD
